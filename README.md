@@ -1,12 +1,16 @@
 🚖 Uber Ride Analysis Dashboard
 
 📌 Project Overview
+
+
 The Uber Ride Analysis Dashboard is an end-to-end Business Intelligence project developed using Excel, Python, and Power BI to analyze Uber ride data and uncover meaningful business insights. Excel was used for initial data validation, Python for data cleaning and preprocessing, and Power BI for interactive dashboard development and visualization. The dashboard enables stakeholders to monitor ride demand, travel patterns, trip duration, ride categories, and operational performance through dynamic KPIs and interactive reports.
 
 🎯 Business Problem
+
 Ride-sharing companies generate thousands of trip records every day. Analyzing this data is essential for understanding customer travel behavior, identifying peak demand periods, improving operational efficiency, and supporting strategic business decisions.
 
 🎯 Objectives
+
 Analyze ride demand across different time periods.
 Monitor trip duration, distance, and average speed.
 Compare Business and Personal ride categories.
@@ -14,6 +18,7 @@ Identify popular ride purposes and travel patterns.
 Build an interactive dashboard for business decision-making.
 
 📊 Dataset Information
+
 Dataset: Uber Ride Dataset
 Domain: Transportation & Mobility
 Records: 1,100+ Ride Records
@@ -31,6 +36,7 @@ Day & Month
 Start Hour
 
 🛠️ Tech Stack
+
 Tool	Purpose
 Excel	Data validation and preparation
 Python (Pandas & NumPy)	Data cleaning and preprocessing
