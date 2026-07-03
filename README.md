@@ -75,5 +75,5 @@ Perform customer segmentation using machine learning techniques.
 👨‍💻 Author
 Vishnu varthan R
 B.E. Computer Science and Engineering
-Aspiring Data Analyst | Python | SQL | Excel | Power BI
+
 a Analyst | Python | SQL | Excel | Power BI
