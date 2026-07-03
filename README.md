@@ -45,9 +45,11 @@ Power BI	Interactive dashboard and visualization
 DAX	KPI calculations and analytical measures
 
 🧹 Data Cleaning & Preprocessing
+
 The dataset was cleaned and prepared using Python before importing it into Power BI. The preprocessing process included handling missing values, removing duplicate records, formatting date and time fields, extracting Month and Start Hour, creating Day Time categories (Morning, Afternoon, Evening, and Night), standardizing column names, and validating the cleaned dataset in Excel.
 
 📊 Dashboard Features
+
 Executive KPI Cards
 Monthly Ride Trend Analysis
 Ride Distribution by Start Hour
@@ -58,6 +60,7 @@ Miles vs Duration Scatter Plot
 Interactive Slicers for Category, Day Time, Pick-up Location, and Drop Location
 
 📈 Key Performance Indicators (KPIs)
+
 🚖 Total Rides
 ⏱️ Average Duration
 📍 Total Miles
@@ -65,6 +68,7 @@ Interactive Slicers for Category, Day Time, Pick-up Location, and Drop Location
 🚀 Average Speed
 
 💡 Business Insights
+
 Afternoon records the highest number of Uber rides, indicating peak customer demand during this period.
 Business rides contribute significantly to the total trips compared to personal rides.
 Meeting and Meal/Entertainment are the most common ride purposes, highlighting business-related travel patterns.
@@ -72,6 +76,7 @@ Ride demand increases during daytime hours, while night rides are comparatively 
 A positive relationship exists between trip distance and duration, showing that longer rides generally require more travel time.
 
 🔮 Future Enhancements
+
 Integrate real-time ride data for live monitoring.
 Develop predictive models to forecast ride demand.
 Add geospatial analysis using interactive maps.
@@ -79,6 +84,7 @@ Build driver performance and revenue analytics.
 Perform customer segmentation using machine learning techniques.
 
 👨‍💻 Author
+
 Vishnu varthan R
 B.E. Computer Science and Engineering
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
