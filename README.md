@@ -20,8 +20,11 @@ Build an interactive dashboard for business decision-making.
 📊 Dataset Information
 
 Dataset: Uber Ride Dataset
+
 Domain: Transportation & Mobility
+
 Records: 1,100+ Ride Records
+
 Tools Used: Excel, Python, Power BI
 
 Dataset Features
@@ -86,5 +89,6 @@ Perform customer segmentation using machine learning techniques.
 👨‍💻 Author
 
 Vishnu varthan R
+
 B.E. Computer Science and Engineering
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
